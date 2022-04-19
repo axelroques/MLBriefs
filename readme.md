@@ -17,8 +17,8 @@ Organized by the Centre Borelli _(https://www.centreborelli.fr)_.
 
 - IPOL Demos:
 
-  1. Kumar et. al. : [Link](https://.ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000224)
+  1. Kumar et. al.: [Link](https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000224)
 
-  2. Lin et. al. : [Link](https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000225)
+  2. Lin et. al.: [Link](https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000225)
 
-  3. Park et. al. : [Link](https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000226)
+  3. Park et. al.: [Link](https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000226)
